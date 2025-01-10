@@ -36,7 +36,7 @@ O conteúdo original foi desenvolvido por **Patrick Walls**, Professor Associado
 
 - [Página Original do Projeto](https://patrickwalls.github.io/mathematicalpython/)
 
-Esta versão em português é uma tradução e adaptação com base no trabalho de Patrick Walls, com o devido respeito às condições da licença de uso.
+Esta versão em português é uma tradução e adaptação expandida com base no trabalho de Patrick Walls, com o devido respeito às condições da licença de uso.
 
 ---
 
