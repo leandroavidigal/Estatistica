@@ -1,47 +1,125 @@
-# Estatística para Ciência de Dados e Machine Learning
+# Matemática e Estatística
 
-Bem-vindo ao repositório de **Estatística para Ciência de Dados e Machine Learning**. Este repositório é um recurso abrangente que abrange os fundamentos e aplicações da estatística, especificamente voltados para ciência de dados e machine learning. Cada notebook é cuidadosamente estruturado para introduzir conceitos teóricos, seguidos de exemplos práticos, exercícios interativos e aplicações reais.
+Bem-vindo ao repositório **Matemática e Estatística**, um espaço dedicado ao estudo e à prática de conceitos fundamentais nessas áreas, com exemplos implementados em Python. Este projeto tem como objetivo principal **democratizar o conhecimento**, fornecendo materiais claros, acessíveis e práticos para estudantes, profissionais e entusiastas.
 
-## Conteúdo do Repositório
+---
 
-### 1. População e Amostra
-Entenda os conceitos fundamentais de população e amostra, que são a base para qualquer análise estatística robusta. Este módulo é essencial para diferenciar entre o universo completo de dados e as amostras usadas em inferências estatísticas.
+## 📚 Sobre o Repositório
 
-### 2. Classificação de Dados
-Descubra os diferentes métodos de classificação de dados, uma habilidade vital para o pré-processamento e análise exploratória de dados. Aprenda como categorizar informações de forma eficaz para melhorar a qualidade das análises.
+Este repositório reúne projetos e tutoriais que conectam a teoria com a prática em **Estatística** e **Matemática Aplicada**. Por meio de notebooks interativos, apresentamos conceitos fundamentais e aplicações práticas que são úteis em áreas como ciência de dados, aprendizado de máquina, engenharia e análise de negócios.
 
-### 3. Dados Absolutos e Relativos
-Compreenda as diferenças e aplicações entre dados absolutos e relativos. Saiba como interpretar esses tipos de dados para extrair insights significativos e contextualizar suas análises.
+---
 
-### 4. Distribuição de Frequência
-Explore técnicas para organizar e visualizar dados através de distribuições de frequência. Esta seção é um passo crucial na análise descritiva, permitindo uma visão clara da estrutura dos dados.
+## 🎯 Objetivos
 
-### 5. Medidas de Posição e Dispersão
-Aprofunde-se no cálculo e interpretação de medidas de posição (média, mediana, moda) e dispersão (variância, desvio padrão). Estas métricas são essenciais para entender a distribuição e a variabilidade dos dados.
+1. **Promover o aprendizado acessível**:
+   - Disponibilizar conteúdos detalhados, com exemplos claros e intuitivos.
+2. **Facilitar a aplicação prática**:
+   - Mostrar como conceitos matemáticos e estatísticos podem ser usados para resolver problemas reais.
+3. **Fomentar a colaboração**:
+   - Criar um ambiente de aprendizado contínuo e colaborativo.
 
-### 6. Distribuições Estatísticas
-Estude as principais distribuições estatísticas, como a normal, binomial e Poisson, e suas aplicações na modelagem e análise de dados. Este módulo é fundamental para construir modelos estatísticos sólidos.
+---
 
-### 7. Fundamentos de Probabilidade
-Aprenda os conceitos básicos de probabilidade, incluindo o teorema de Bayes e variáveis aleatórias. Entenda como a probabilidade é utilizada na estatística e em machine learning para prever eventos e tomar decisões baseadas em dados.
+## 🚀 Projetos Disponíveis
 
-### 8. Intervalos de Confiança
-Descubra como construir e interpretar intervalos de confiança para estimativas de parâmetros populacionais. Este módulo é essencial para medir a precisão das estimativas e fazer inferências confiáveis.
+Os projetos estão organizados em duas áreas principais: **Estatística** e **Matemática Aplicada**. Cada tema é acompanhado de explicações teóricas, implementações práticas e exemplos do mundo real.
 
-### 9. Testes de Hipóteses
-Este módulo cobre os principais testes de hipóteses utilizados na análise estatística. Aprenda a tomar decisões baseadas em dados, entendendo os conceitos de significância estatística, erros tipo I e II, e como interpretar os resultados de testes.
+### **Estatística**
+1. **População e Amostra**:
+   - Diferenças e conceitos básicos para análise de dados.
+2. **Classificação de Dados**:
+   - Organização e categorização para facilitar análises.
+3. **Dados Absolutos e Relativos**:
+   - Proporções, frequências e interpretação.
+4. **Distribuição de Frequência**:
+   - Representação de dados em tabelas e gráficos.
+5. **Medidas de Posição e Dispersão**:
+   - Média, mediana, variância, desvio padrão e mais.
+6. **Distribuições Estatísticas**:
+   - Introdução às distribuições de probabilidade mais comuns.
+7. **Probabilidade**:
+   - Fundamentos e aplicações práticas.
+8. **Intervalos de Confiança**:
+   - Estimativas e análise de incertezas.
+9. **Testes de Hipóteses**:
+   - Validação estatística e comparação de grupos.
+10. **Correlação e Regressão**:
+    - Relações entre variáveis e modelos preditivos.
+11. **Gráficos e Visualização de Dados**:
+    - Técnicas para criar visualizações informativas.
 
-### 10. Correlação e Regressão
-Explore técnicas de correlação e regressão para investigar as relações entre variáveis e prever valores. Este módulo oferece uma base sólida para modelagem preditiva e análise de tendências.
+### **Matemática Aplicada**
+1. **Descoberta de Raiz**:
+   - Métodos numéricos como:
+     - Método da Bisseção
+     - Método da Secante
+     - Método de Newton
+2. **Integração Numérica**:
+   - Cálculo de integrais com:
+     - Somatórios de Riemann
+     - Regra do Trapézio
+     - Regra de Simpson
+3. **Diferenciação Numérica**:
+   - Técnicas para derivadas numéricas.
+4. **Equações Diferenciais**:
+   - Métodos de resolução para:
+     - Equações de Primeira Ordem
+     - Sistemas de Equações
+5. **Álgebra Linear**:
+   - Aplicações práticas de álgebra linear com:
+     - Resolução de Sistemas Lineares
+     - Autovalores e Autovetores
+     - Casos reais usando Python.
 
-### 11. Visualização de Dados com Gráficos Estatísticos
-Aprenda a criar gráficos estatísticos que comunicam efetivamente os resultados das suas análises. Este módulo cobre a criação de gráficos como histogramas, boxplots, scatterplots, entre outros, para facilitar a interpretação e apresentação dos dados.
+---
 
-## Objetivo
+## 🔧 Ferramentas e Tecnologias
 
-O objetivo deste repositório é fornecer uma base sólida em estatística para profissionais e estudantes de ciência de dados e machine learning. Através desses notebooks, você ganhará as habilidades necessárias para aplicar técnicas estatísticas em projetos reais, melhorando sua capacidade de analisar dados e tomar decisões informadas.
+Os projetos são desenvolvidos com:
+- **Python**: Linguagem principal para todos os exemplos.
+- **NumPy**: Computação científica.
+- **SciPy**: Ferramentas avançadas para matemática aplicada.
+- **Pandas**: Manipulação e análise de dados.
+- **Matplotlib e Seaborn**: Visualização de dados.
+- **Scikit-learn**: Modelagem estatística e aprendizado de máquina.
 
-## Contribuições
+---
 
-Contribuições para melhorar este repositório são bem-vindas! Se você tiver sugestões, correções ou quiser adicionar novos conteúdos, sinta-se à vontade para enviar um pull request.
+## 🌟 Destaques do Repositório
 
+1. **Notebooks Interativos**:
+   - Cada projeto é apresentado em formato Jupyter Notebook, com explicações detalhadas e exemplos executáveis.
+
+2. **Aplicações Práticas**:
+   - Demonstração de como conceitos teóricos são aplicados em cenários do mundo real.
+
+3. **Organização Didática**:
+   - Os temas são organizados de forma a facilitar a navegação e o aprendizado progressivo.
+
+4. **Conteúdo em Português**:
+   - Materiais adaptados para a comunidade de língua portuguesa, promovendo inclusão e acessibilidade.
+
+---
+
+## 🤝 Contribuições
+
+Contribuições são sempre bem-vindas! Se você deseja colaborar com este projeto:
+1. Faça um fork deste repositório.
+2. Crie um branch para sua contribuição: `git checkout -b minha-contribuicao`.
+3. Envie suas alterações: `git commit -m "Descrição do que foi alterado"`.
+4. Submeta um pull request para revisão.
+
+Caso tenha sugestões de novos temas ou melhorias, abra uma [issue](https://github.com/leandroavidigal/Matematica_Estatistica/issues).
+
+---
+
+## 📜 Licença
+
+Este repositório está licenciado sob a [Licença MIT](LICENSE). Você pode usar, modificar e distribuir o conteúdo, desde que mantenha os créditos ao autor original.
+
+---
+
+## 📬 Contato
+
+Se tiver dúvidas, sugestões ou quiser entrar em contato no [LinkedIn](https://www.linkedin.com/in/leandrovidigal/).
